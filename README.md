@@ -1,2 +1,2 @@
 # Python_Developer
-Estudo para a Formação de Desenvolvedor de Python
+Estudo para a Formação de Desenvolvedor em Python
